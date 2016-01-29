@@ -34,9 +34,11 @@ In this section, please report:
 
 Here are the examples of how to add equations in markdown:
 
-$$\int_0^{\infty} (7*x^{9})/(e^{x^2}dx = 84.$$
+1. Student ID: 1104758, hexadecimal value: 0x10db76
 
-\begin{align*}
+2. $$\int_0^{\infty} (7*x^{9})/(e^{x^2}dx = 84.$$
+
+3. \begin{align*}
 1x_0 + 1x_1 + 1x_2 + 1x_3 + 1x_4 + 1x_5 + 1x_6 + 1x_7 + 1x_8 + 1x_9 &= 45,\\
 2x_0 + 2x_1 + 1x_2 + 0x_3 + 1x_4 + 1x_5 + 0x_6 + 0x_7 + 0x_8 + 0x_9 &= 13,\\
 0x_0 + 1x_1 + 1x_2 + 1x_3 + 4x_4 + 17x_5 + 7x_6 + 1x_7 + 21x_8 +1x_9 &= 333,\\
@@ -50,6 +52,17 @@ $$\int_0^{\infty} (7*x^{9})/(e^{x^2}dx = 84.$$
 
 \end{align*}
 
+answer is:
+x_0 = -2.61568545e-13
+x_1 = 1.00000000e+00
+x_2 = 2.00000000e+00
+x_3 = 3.00000000e+00
+x_4 = 4.00000000e+00
+x_5 = 5.00000000e+00
+x_6 = 6.00000000e+00
+x_7 = 7.00000000e+00
+x_8 = 8.00000000e+00
+x_9 = 9.00000000e+00
 -----------------------------------
 
 <sup>last modified: 29 JANUARY 2016 </sup>
